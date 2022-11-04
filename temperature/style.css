@@ -1,0 +1,29 @@
+*{
+    background-color:rgb(158, 218, 238);
+    color: rgb(243, 78, 122);
+}
+
+label{
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+input{
+    border-color: rgb(112, 202, 202);
+    box-shadow: rgb(112, 202, 202);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.button{
+    background-color: rgb(228, 125, 166);
+    color: rgb(213, 228, 241);
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
